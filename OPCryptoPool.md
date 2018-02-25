@@ -33,5 +33,10 @@ Before you get started, let's make sure you have the necessary hardware to effic
  - Using 7-Zip, extract the contents of the CCMiner program into any folder you'd like. For this example, we'll use c:\VTCMiner.
  - Once extracted, navigate to the folder in Windows Explorer (c:\VTCMiner).
  ### Step 3, Configure the miner
+ - We need to retrieve a receiving address for our newly mined coins. To do this, go to the Vertcoin wallet window and go to:
+    File -> Receiving addresses. 
+    If not addresses are listed, press the "New" button at the bottom of the screen to create one. 
+    Once listed, copy the wallet address by selecting it, right clicking on it then selecting "Copy Address".
  - In the c:\VTCMiner folder, we will be creating a new batch file, we call "run.bat". We use Notepad++ to create a new text file.
- - In the newly created file, enter the
+ - In the newly created file, enter the following command:
+    ccminer-x64.exe -a lyra2v2 -o stratum+tcp://74.207.227.83:9181 -u <The wallet address we copied above> -p <your name>
