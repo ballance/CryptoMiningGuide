@@ -15,8 +15,8 @@ Before you get started, let's make sure you have the necessary hardware to effic
  ### Software needed
  - Windows 10 - *while earlier versions of Windows, OSX and Linux will work, this guide will deal with Windows 10 only)*
  - ccminer 
-  - [64-bit ccminer](https://github.com/tpruvot/ccminer/releases/download/2.2.4-tpruvot/ccminer-x64-2.2.4-cuda9.7z)
-  - [32-bit ccminer](https://github.com/tpruvot/ccminer/releases/download/2.2.4-tpruvot/ccminer-x86-2.2.4-cuda9.7z)
+    - [64-bit ccminer](https://github.com/tpruvot/ccminer/releases/download/2.2.4-tpruvot/ccminer-x64-2.2.4-cuda9.7z)
+    - [32-bit ccminer](https://github.com/tpruvot/ccminer/releases/download/2.2.4-tpruvot/ccminer-x86-2.2.4-cuda9.7z)
   
 ## I'm ready to mine!  What do I do next?
 
