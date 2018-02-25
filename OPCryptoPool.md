@@ -1,7 +1,7 @@
 # Getting started mining with OPCrypto
 
 ### Goal
-At the end of this setup, you'll have a miner with your name and the logo of your choice on our site (http://pool.opcryptos.com)[http://pool.opcryptos.com].
+At the end of this setup, you'll have a miner with your name and the logo of your choice on our site [http://pool.opcryptos.com](http://pool.opcryptos.com).
 
 
 ### Hardware needed
