@@ -1,7 +1,7 @@
 # Getting started mining with OPCrypto
 
 ### Goal
-At the end of this setup, you'll have a miner with your name and the logo of your choice on our site [http://pool.opcryptos.com](http://pool.opcryptos.com).
+At the end of this setup, you'll have a miner with your name and the logo of your choice on our site [http://pool.opcryptos.com](http://pool.opcryptos.com). In this guide we will be using the common NVIDIA miner, ccminer. We'll cover other miners (like the one click miner in other sections.)
 
 
 ### Suggested Hardware
@@ -40,3 +40,9 @@ Before you get started, let's make sure you have the necessary hardware to effic
  - In the c:\VTCMiner folder, we will be creating a new batch file, we call "run.bat". We use Notepad++ to create a new text file.
  - In the newly created file, enter the following command:
     ccminer-x64.exe -a lyra2v2 -o stratum+tcp://74.207.227.83:9181 -u <The wallet address we copied above> -p <your name>
+ - Save the batch file.
+### Step 4, Start and Confirm you're mining
+ - Once saved, run the batch file (double clicking on it).
+ - This should bring up a DOS window showing the results of the hashing work your GPU is doing. You will likely see lines saying something similar to "accepted ... yes!"
+ - If you see errors, something may be configured incorrectly.
+ 
