@@ -3,6 +3,8 @@
 ### Goal
 At the end of this setup, you'll have a miner with your name and the logo of your choice on our site [http://pool.opcryptos.com](http://pool.opcryptos.com). In this guide we will be using the common NVIDIA miner, ccminer. We'll cover other miners (like the one click miner in other sections.)
 
+### Video Guide
+https://www.youtube.com/watch?v=OaM_2vyRNAQ&t=183s - Hat tip to Greg for putting this together.
 
 ### Suggested Hardware
 Before you get started, let's make sure you have the necessary hardware to efficiently mine on the blockchain.  While there are countless setups, some are more profitable than others. The suggested hardware is one that has proven to be a profitable configuration, but others most certainly exist. If there's interest, we will add additional configurations and guides for common scenarios.
