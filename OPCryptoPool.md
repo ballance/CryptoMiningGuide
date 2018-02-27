@@ -48,3 +48,5 @@ Before you get started, let's make sure you have the necessary hardware to effic
  - This should bring up a DOS window showing the results of the hashing work your GPU is doing. You will likely see lines saying something similar to "accepted ... yes!"
  - If you see errors, something may be configured incorrectly.
  
+### Step 5, Get your avatar!
+ - https://goo.gl/forms/m0ROPlTN8LuWVa3A3
